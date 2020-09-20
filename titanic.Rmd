@@ -27,6 +27,8 @@ titanic <- read.csv("titanic_clean.csv")
 
 Show the names of the columns in the data frame:
 
+Other changes.
+
 ```{r}
 #- Use the "names" function to show the names of the columns in "titanic"
 #- Replace the ... with your code.
